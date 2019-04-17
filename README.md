@@ -17,6 +17,9 @@ A Qt based 3D RPG game
 3. 效果演示
    - **视频链接：** 
    - 游戏截图：
+   ![登陆界面](https://github.com/Dennis-lixinze/Goldenring/raw/master/display/0.JPG)
+   ![1](https://github.com/Dennis-lixinze/Goldenring/raw/master/display/1.jpg)
+   ![2](https://github.com/Dennis-lixinze/Goldenring/raw/master/display/2.jpg)
         
        
 
