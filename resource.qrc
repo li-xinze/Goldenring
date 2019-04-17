@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/login">
+        <file>pic/1.png</file>
+        <file>pic/church.png</file>
+        <file>pic/city1.jpg</file>
+        <file>pic/city2.jpg</file>
+        <file>pic/city3.jpg</file>
+        <file>pic/city4.jpg</file>
+        <file>pic/city5.jpg</file>
+        <file>pic/enter.png</file>
+        <file>pic/enter_.png</file>
+        <file>pic/gonggao.png</file>
+        <file>pic/logo.png</file>
+        <file>pic/logo1.png</file>
+        <file>pic/mainlogo.png</file>
+        <file>pic/more.png</file>
+        <file>pic/more_.png</file>
+        <file>pic/more_d.png</file>
+        <file>pic/pic1.png</file>
+        <file>pic/pic1_.png</file>
+        <file>pic/pic1_d.png</file>
+        <file>pic/pic2.png</file>
+        <file>pic/pic2_.png</file>
+        <file>pic/pic2_d.png</file>
+        <file>pic/pic3.png</file>
+        <file>pic/pic3_.png</file>
+        <file>pic/pic3_d.png</file>
+        <file>pic/pic4.png</file>
+        <file>pic/pic4_.png</file>
+        <file>pic/pic4_d.png</file>
+        <file>pic/little.png</file>
+    </qresource>
+    <qresource prefix="/obj_mtl"/>
+    <qresource prefix="/skybox">
+        <file>sky/back.bmp</file>
+        <file>sky/bottom.bmp</file>
+        <file>sky/front.bmp</file>
+        <file>sky/left.bmp</file>
+        <file>sky/right.bmp</file>
+        <file>sky/top.bmp</file>
+    </qresource>
+</RCC>

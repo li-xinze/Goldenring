@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>resource/house_diffuse.jpg</file>
+        <file>resource/gdragon.jpg</file>
+        <file>resource/gdragon2.jpg</file>
+        <file>resource/sidebar.jpg</file>
+        <file>resource/landform1.jpg</file>
+        <file>resource/lsm1.jpg</file>
+        <file>resource/lsm2.jpg</file>
+        <file>resource/lsm3.jpg</file>
+        <file>resource/lsm4.jpg</file>
+        <file>resource/frame.mtl</file>
+        <file>resource/frame.obj</file>
+        <file>resource/house_obj.mtl</file>
+        <file>resource/house_obj.obj</file>
+        <file>resource/landform.obj</file>
+        <file>resource/lsm_heart.obj</file>
+    </qresource>
+</RCC>
